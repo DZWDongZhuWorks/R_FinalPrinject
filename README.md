@@ -15,3 +15,6 @@
     丙.核燃料價格
 5.人因造成氣候影響
   a.武漢肺炎造成經濟影響活動形成的氣候影響
+  
+  近二十年氣象資料https://stat.motc.gov.tw/mocdb/stmain.jsp?sys=100&funid=a8101
+  
