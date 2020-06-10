@@ -12,10 +12,8 @@
 3.颱風強度變化
 
 4.政策造成氣候影響
-
-  a.核電廠廢水造成的海水溫變化(高低用電)
   
-  b.能源價格與氣溫影響
+  a.能源價格與氣溫影響
   
     甲.燃氣價格
     
@@ -27,9 +25,13 @@
 
   a.武漢肺炎造成經濟影響活動形成的氣候影響
   
+  
   近二十年氣象資料https://stat.motc.gov.tw/mocdb/stmain.jsp?sys=100&funid=a8101
   
   https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp
   
   海溫資料https://www.tfrin.gov.tw/News.aspx?n=321&sms=9038&page=815&PageSize=10
   
+  https://www.cwb.gov.tw/V8/C/C/MMC_STAT/sta_sea.html
+  
+  天然氣期貨https://hk.investing.com/commodities/natural-gas
