@@ -37,3 +37,4 @@
   天然氣期貨https://hk.investing.com/commodities/natural-gas
   
   煤炭期貨https://hk.investing.com/commodities/coal-cme-futures-historical-data
+  https://www.cnyes.com/futures/Coalchart/NEWCWIN.html
