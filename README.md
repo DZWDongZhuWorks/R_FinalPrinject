@@ -35,3 +35,5 @@
   https://www.cwb.gov.tw/V8/C/C/MMC_STAT/sta_sea.html
   
   天然氣期貨https://hk.investing.com/commodities/natural-gas
+  
+  煤炭期貨https://hk.investing.com/commodities/coal-cme-futures-historical-data
