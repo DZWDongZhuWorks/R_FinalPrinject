@@ -29,4 +29,5 @@
   
   近二十年氣象資料https://stat.motc.gov.tw/mocdb/stmain.jsp?sys=100&funid=a8101
   https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp
+  海溫資料https://www.tfrin.gov.tw/News.aspx?n=321&sms=9038&page=815&PageSize=10
   
